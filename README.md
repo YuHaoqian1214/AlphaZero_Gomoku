@@ -6,4 +6,3 @@
 
 ## My job
 * Forbidden moves
-* Further training
